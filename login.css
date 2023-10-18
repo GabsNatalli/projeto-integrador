@@ -1,0 +1,85 @@
+/* .login-email{ 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50vh;
+}
+
+.login-senha{ 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50vh;
+}
+
+.login-email form.form1 input.input1 {
+    font-family: 'Rowdies';
+    font-size: 15px;
+
+    width: 350px; 
+    height: 40px; 
+    border: 2px solid #ccc; 
+    border-radius: 10px; 
+    padding: 10px; 
+    top: 50%;
+    left: 50%;
+
+    
+    
+}
+
+.login-senha form.form2 input.input2 {
+    font-family: 'Rowdies';
+    font-size: 15px;
+
+    width: 350px; 
+    height: 40px; 
+    border: 2px solid #ccc; 
+    border-radius: 10px; 
+    padding: 10px; 
+    top: 50%;
+    left: 50%;
+    
+} */
+
+.login-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 70vh; 
+}
+
+
+.titulo-matricula {
+    font-family: 'Rowdies';
+    color: rgb(74, 74, 74);
+    position: absolute;
+    top: 180px;
+    left: 660px;
+}
+
+.titulo-senha {
+    font-family: 'Rowdies';
+    color: rgb(74, 74, 74);
+    position: absolute;
+    top: 305px;
+    left: 660px;
+}
+
+
+
+
+.login-email form.form1 input.input1,
+.login-senha form.form2 input.input2 {
+    font-family: 'Rowdies';
+    font-size: 15px;
+    width: 350px;
+    height: 60px;
+    border: 2px solid #ccc;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 20px; /* Adicione um espaço entre as caixas de email e senha */
+}
+
+
