@@ -20,7 +20,7 @@
     top: 55%;
     left: 50%;
     transform: translate(-50%, -50%);
-    /* width: 80%; */
+
 }
 
 .inicio h5 {
@@ -33,7 +33,7 @@
     top: 95%;
     left: 50%;
     transform: translate(-50%, -50%);
-    /* width: 80%; */
+
     
 }
 
@@ -79,11 +79,11 @@
 
 
 .inicio button.botaoCriar1:hover {
-    box-shadow: 0 4px 6px rgba(71, 70, 73, 0.6); /* Adiciona uma sombra no hover */
+    box-shadow: 0 4px 6px rgba(71, 70, 73, 0.6); 
 }
 
 .inicio button.botaoLogin1:hover {
-    box-shadow: 0 4px 6px rgba(71, 70, 73, 0.6); /* Adiciona uma sombra no hover */
+    box-shadow: 0 4px 6px rgba(71, 70, 73, 0.6);
 }
 
 
