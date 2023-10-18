@@ -83,3 +83,23 @@
 }
 
 
+.botaoLogin-logar1 {
+    margin: 0;
+    font-family: 'Rowdies';
+    color: 	#ffffff;
+    font-size: 16px;
+    text-align: center;
+    position: absolute;
+    top: 65%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 250px;
+    height: 60px;
+    background-color: #32B768 ;
+    border-color: #32B768;
+    border-radius: 12px;
+    box-shadow: 0 4px 6px rgba(71, 70, 73, 0.3);
+    transition: box-shadow 0.3s ease;
+    
+    
+}
